@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 3
+Plate Text: KENSHIN 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 14
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 9
+Exhaust: 8
+Chassis: 9
+Grille: 13
+Hood: 14
+Fender: 2
+Right Fender: 5
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 73
+Vanity Plates: 2
+Trim: 9
+Ornaments: 2
+Dashboard: 4
+Dial: 1
+Seats: 0
+Door Speaker: 11
+Steering Wheel: 16
+Engine Block: 12
+Struts: 17
+Arch Cover: 9
+Aerials: 8
+Trim2: 7
+Tank: 4
+Livery: 15
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #f9251d
+Custom Secondary Colour: #4abd60
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 111
+Tyres Mode: 1
